@@ -1,10 +1,10 @@
-# ACEDU AMUSEMENT PARK
+# voting information
 
-The amusement park is a site where acedu students and staff register to view games they can actual play for future references.
+this is a site the enables you to check your voting status and give you more infomation about voting in nigeria.
 
 ## How to visit
 
-[click](https://dadeesamuel.github.io/amusement-park) to visit our store.
+[click](<https://dadeesamuel.github.io/voting> information) to visit the site.
 
 ## TABLE OF CONTENT
 
