@@ -44,3 +44,16 @@ color: #a01e23;
     border: 3px solid green;
     height: 50px;
 }
+.form{
+    display: none;
+}
+.button{
+    cursor: pointer;
+    background-color: rgb(2, 29, 2) ;
+    border: 3px solid green;
+    text-align: center;
+    margin: auto;
+    border-radius: 10px;
+    width: 40%;
+    color: white;
+}
