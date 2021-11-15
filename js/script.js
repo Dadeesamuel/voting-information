@@ -12,13 +12,17 @@ $(document).ready(function(){
         $(".form").toggle();
     })
 
-$(".form").submit(function(){
-
-let age = parseInt($("#age").val())
+$(".form").submit(function(event){
+event.preventDefault();
+const age = parseInt($("#age").val())
     if (age < 18) {
+        console.log("i am a man")
         window.location.href="information.html"
+        die();
     } else {
-        window.location.href="vote.html"
+        window.location.href="vote.html" ;
+    
+
     }
 });
 });
